@@ -1,4 +1,4 @@
-docs written by an llm
+docs written by an llm with everything tested
 
 # Brainfuck Interpreter
 
