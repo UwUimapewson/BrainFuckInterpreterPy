@@ -10,7 +10,7 @@ To use the interpreter, run the following command in your terminal:
 
 python3 bf.py program.bf
 
-vbnet
+
 
 
 Replace `program.bf` with the path to the Brainfuck program you want to run.
